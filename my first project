@@ -1,3 +1,4 @@
+#html
 list1 = []
 while True:
     str1 = input("Enter email or exit to stop, print to show data: ")
